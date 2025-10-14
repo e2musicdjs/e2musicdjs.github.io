@@ -1,13 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-N:E² Music DJ Service;;;;
-FN:E² Music DJ Service
-NICKNAME: ""
-ORG: ""
+N:E² Music;;;;
+FN:E² Music
+ORG: DJ Service
 EMAIL;type=INTERNET;type=HOME;type=pref:e2musicdjs@gmail.com
 TEL;type=CELL;type=VOICE;type=pref:+1 813-277-8930
 URL;type=pref:https://tally.so/r/wgNXVO
-BDAY:""
+BDAY:
 X-SOCIALPROFILE;type=Instagram:e2musicdjs
 NOTE:E² Music is Eddie Rosa and Ely Miranda. \n Together they have over 30 yrs of DJ experience.
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAkACQAAD/4QB0RXhpZgAATU0AKgAA
