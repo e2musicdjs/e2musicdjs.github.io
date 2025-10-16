@@ -127,6 +127,7 @@ body.dark.background .vcard > .grid-x {
 	
 	border-radius: 50%;
 	border: 3px solid #ffffff;
+	box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19);
 	overflow-y: hidden; 	
 	-ms-overflow-style: none; 
 	scrollbar-width: none; 
